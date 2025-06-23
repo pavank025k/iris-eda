@@ -23,6 +23,6 @@ This project performs **Exploratory Data Analysis (EDA)** on the classic Iris da
 ### 💻 Option 2: Clone and run locally
 
 ```bash
-git clone https://github.com/your-username/iris-eda.git
+git clone https://github.com/pavank025k/iris-eda.git
 cd iris-eda
 jupyter notebook iris_eda.ipynb
